@@ -29,3 +29,6 @@ Throughout this project, I faced several challenges, including:
 These challenges helped me deepen my understanding of HTML and CSS. I learned that developing visually appealing websites requires both creativity and technical skills, which I aim to continue improving.
 ________________________________________
 
+
+
+Live preveiw : https://sangal29.github.io/Blog-website
